@@ -125,7 +125,7 @@ button {
 /* HOMEPAGE */
 
 #homepage-container {
-    background-image: url(../assets/agOfficialSwatches/agButcherPaperWhite500x500.jpg);
+    background-image: url(../assets/agOfficialSwatches/butcherPaperUpdated500x500.png);
 
 }
 
@@ -186,7 +186,7 @@ main > .container {
 }
 
 .menu-page-bg {
-    background-image: url(../assets/agOfficialSwatches/agButcherPaperWhite.jpg);
+    background-image: url(../assets/agOfficialSwatches/butcherPaperUpdated500x500.png);
     background-repeat: round;
 }
 
@@ -230,7 +230,7 @@ main > .container {
 }
 
 .select-category-bg {
-    background-image: url(../assets/agOfficialSwatches/agButcherPaperWhite.jpg);
+    background-image: url(../assets/agOfficialSwatches/butcherPaperUpdated500x500.png);
 }
 
 
