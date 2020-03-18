@@ -1,0 +1,17 @@
+{
+  "name": "aussie_grill_brand_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch source/styles -o css",
+    "dev": "http-server ./ -c-1 & npm run scss"
+  },
+  "author": "BBI",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.1",
+    "node-sass": "^4.13.1"
+  }
+}
